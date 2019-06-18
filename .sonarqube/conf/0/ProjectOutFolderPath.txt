@@ -1,0 +1,1 @@
+/home/smolareck/Projetos/ProjetoTesteSonar/.sonarqube/out/0
